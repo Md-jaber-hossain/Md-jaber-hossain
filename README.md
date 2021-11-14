@@ -42,7 +42,7 @@
 <p><img height="195em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" /></p>
 </div>
 
-<div style="width: 100%;" align="center">
+<div style="width: 100%;" align="left">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" /></p>
 </div>
 <br/>
