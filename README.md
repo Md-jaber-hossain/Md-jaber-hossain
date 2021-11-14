@@ -39,7 +39,7 @@
 
 <h3 align="left">States:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-jaber-hossain&" alt="md-jaber-hossain" />
 
 
