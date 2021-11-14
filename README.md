@@ -38,7 +38,7 @@
 <br/>
 
 <h3 align="left">States:</h3>
-<div style=align="center">
+<div style=width: 100%;" align="center">
 <p><img height="195em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" /></p>
 </div>
 
