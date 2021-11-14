@@ -21,7 +21,7 @@
 <p><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" /></p>
 </div>
 <div style="width: 100%;" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" /></p>
 </div>
 <div style="width: 100%;" align="center">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jaber-hossain&" alt="md-jaber-hossain" /></p>
