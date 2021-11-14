@@ -39,10 +39,8 @@
 
 <h3 align="left">States:</h3>
 
-<p><img height="195em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" /></p>
-<br/>
+<img height="195em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-jaber-hossain&show_icons=true&locale=en&layout=compact" alt="md-jaber-hossain" />
+<p><img align="lrft" src="https://github-readme-stats.vercel.app/api?username=md-jaber-hossain&show_icons=true&locale=en" alt="md-jaber-hossain" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jaber-hossain&" alt="md-jaber-hossain" /></p>
 
 
