@@ -3,7 +3,7 @@
 
 ####
 ####
-#### My goal is to be a full-stack developer
+#### 
 #### I am a programming learner
 #
 <h3 align="left">Connect with me:</h3>
